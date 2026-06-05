@@ -14,9 +14,13 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 
 🎓 CSE Cyber Security Student at CVR College of Engineering
 📈 Current CGPA: **9.3**
+
 💻 Solved **1100+ LeetCode Problems**
+
 🏆 CodeChef Rating: **1532**
+
 ⭐ LeetCode Rating: **1866**
+
 🌱 Currently Learning:
 - Advanced MERN Stack
 - System Design
