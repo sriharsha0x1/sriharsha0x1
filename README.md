@@ -33,41 +33,32 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
-
-### Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-
-### Backend
-
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-
-### Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -104,10 +95,10 @@ Add your Hacktoberfest badges screenshot here.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN)
+[LinkedIn]([YOUR_LINKEDIN](linkedin.com/in/sri-harsha-bhoomandla-5b1ab2287/))
 
-[LeetCode](YOUR_LEETCODE)
+[LeetCode]([YOUR_LEETCODE](https://leetcode.com/u/sriharshabhoomandla/))
 
-[CodeChef](YOUR_CODECHEF)
+[CodeChef]([YOUR_CODECHEF](https://www.codechef.com/users/sri_harsha01))
 
 [GitHub](https://github.com/sriharsha0x1)
