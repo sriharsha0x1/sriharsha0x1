@@ -56,7 +56,6 @@ Let's build something impactful together!
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
