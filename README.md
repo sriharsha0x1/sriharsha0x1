@@ -1,35 +1,45 @@
+<img width="1387" height="409" alt="image" src="https://github.com/user-attachments/assets/f2ce2e5d-0d47-48a0-95c1-c918250efd94" />
+
+
 <h1 align="center">Hi 👋, I'm Bhoomandla Sri Harsha</h1>
 
 <h3 align="center">
 Cyber Security Student | MERN Developer | Open Source Contributor
 </h3>
 
+
+---
+
+
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;1100%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
+
+
 
 ---
 
 ## 🚀 About Me
 
-🎓 CSE Cyber Security Student at CVR College of Engineering
-📈 Current CGPA: **9.3**
+I'm a passionate Full Stack Developer, Open Source Contributor, and Cyber Security enthusiast from India.
 
-💻 Solved **1100+ LeetCode Problems**
+⚡ I enjoy building scalable web applications, solving algorithmic challenges, and exploring new technologies.
 
-🏆 CodeChef Rating: **1532**
+💻 Experienced with the MERN stack and modern web development tools.
 
-⭐ LeetCode Rating: **1866**
+🌱 Currently learning System Design, Cyber Security, and advanced backend development.
 
-🌱 Currently Learning:
-- Advanced MERN Stack
-- System Design
-- Cyber Security
+🚀 Open to collaborations, hackathons, open-source contributions, and exciting opportunities.
+
+Let's build something impactful together!
 
 📫 Reach me:
 **sriharshabhoomandla@gmail.com**
 
 ---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -62,43 +72,41 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 
 ---
 
-## 🏆 Achievements
-
-
-🎖️ Hacktoberfest Contributor
-
-🌟 Open Source Contributor
-
-📚 Indo-Dutch Cyber Security School Participant
-
-
-
----
-
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sriharsha0x1&show_icons=true&theme=tokyonight)
+<!--![](https://github-readme-stats.vercel.app/api?username=sriharsha0x1&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha0x1&layout=compact&theme=tokyonight)
+-->
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight" />
+</p>
+
+
+## 💡 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sriharshabhoomandla?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
 
 ---
 
-## 🏅 Hacktoberfest
-
-Add your Hacktoberfest badges screenshot here.
-
-<img width="800" src="YOUR_BADGES_IMAGE_LINK">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriharsha0x1&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn]([YOUR_LINKEDIN](linkedin.com/in/sri-harsha-bhoomandla-5b1ab2287/))
+[LinkedIn](linkedin.com/in/sri-harsha-bhoomandla-5b1ab2287/)
 
-[LeetCode]([YOUR_LEETCODE](https://leetcode.com/u/sriharshabhoomandla/))
+[LeetCode](https://leetcode.com/u/sriharshabhoomandla/)
 
-[CodeChef]([YOUR_CODECHEF](https://www.codechef.com/users/sri_harsha01))
+[CodeChef](https://www.codechef.com/users/sri_harsha01)
 
 [GitHub](https://github.com/sriharsha0x1)
