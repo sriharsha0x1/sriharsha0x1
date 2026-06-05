@@ -5,7 +5,7 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;MERN+Stack+Developer;600%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;1100%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -13,15 +13,10 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 ## 🚀 About Me
 
 🎓 CSE Cyber Security Student at CVR College of Engineering
-
 📈 Current CGPA: **9.3**
-
 💻 Solved **1100+ LeetCode Problems**
-
 🏆 CodeChef Rating: **1532**
-
 ⭐ LeetCode Rating: **1866**
-
 🌱 Currently Learning:
 - Advanced MERN Stack
 - System Design
