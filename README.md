@@ -71,32 +71,23 @@ Let's build something impactful together!
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Coding Stats
 
-<!--![](https://github-readme-stats.vercel.app/api?username=sriharsha0x1&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td valign="middle" width="50%">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha0x1&layout=compact&theme=tokyonight)
--->
+</td>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight" />
-</p>
+<td valign="middle" width="50%">
 
+<img src="https://leetcard.jacoblin.cool/sriharshabhoomandla?theme=dark&font=Karma&ext=heatmap" />
 
-## 💡 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sriharshabhoomandla?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriharsha0x1&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
