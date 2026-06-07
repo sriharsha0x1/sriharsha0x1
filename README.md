@@ -91,6 +91,13 @@ Let's build something impactful together!
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriharsha0x1&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+
 ## 🤝 Connect With Me
 
 [LinkedIn](linkedin.com/in/sri-harsha-bhoomandla-5b1ab2287/)
