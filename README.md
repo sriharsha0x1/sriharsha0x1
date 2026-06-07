@@ -103,9 +103,6 @@ Let's build something impactful together!
 ## 🤝 Connect With Me
 
 [LinkedIn](linkedin.com/in/sri-harsha-bhoomandla-5b1ab2287/)
-
-[LeetCode](https://leetcode.com/u/sriharshabhoomandla/)
-
-[CodeChef](https://www.codechef.com/users/sri_harsha01)
-
-[GitHub](https://github.com/sriharsha0x1)
+| [LeetCode](https://leetcode.com/u/sriharshabhoomandla/)
+| [CodeChef](https://www.codechef.com/users/sri_harsha01)
+| [GitHub](https://github.com/sriharsha0x1)
