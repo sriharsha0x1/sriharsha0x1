@@ -20,7 +20,7 @@ Cyber Security Student | MERN Developer | Open Source Contributor
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Full Stack Developer, Open Source Contributor, and Cyber Security enthusiast from India.
 
