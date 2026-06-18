@@ -71,10 +71,6 @@ Let's build something impactful together!
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriharsha0x1&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 
 ---
 
@@ -95,6 +91,14 @@ Let's build something impactful together!
 </td>
 </tr>
 </table>
+
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriharsha0x1&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 
 ---
