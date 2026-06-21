@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer, Open Source Contributor, and Cyber Securi
 
 🚀 Open to collaborations, hackathons, open-source contributions, and exciting opportunities.
 
-Let's build something impactful together!
+Let's build something impactful together.
 
 📫 Reach me:
 **sriharshabhoomandla@gmail.com**
