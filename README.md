@@ -79,7 +79,7 @@ Let's build something impactful together.
 
 <table>
 <tr>
-<td valign="middle" width="50%">
+<td valign="middle" width="50%" >
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharsha0x1&theme=tokyonight" />
 
